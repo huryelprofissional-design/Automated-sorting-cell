@@ -96,7 +96,7 @@ Skills Demonstrated
 
 👥 Contributors
 
-| [![Huryel Aroucca](https://github.com/huryelprofissional-design.png?size=80)](https://github.com/huryelprofissional-design) | [![Pedro Espinhola](https://github.com/Pedro_Espinhola.png?size=80)](https://github.com/Pedro_Espinhola) |
+| [![Huryel Aroucca](https://github.com/huryelprofissional-design.png?size=80)](https://github.com/huryelprofissional-design) | [![pedrohenriquemachadoespindolah-ctrl](https://github.com/Pedro_Espinhola.png?size=80)](https://github.com/Pedro_Espinhola) |
 |---|---|
 | [Huryel Aroucca](https://github.com/huryelprofissional-design) | [Pedro Espindola](https://github.com/pedrohenriquemachadoespindolah-ctrl) |
 | Automation & PLC Logic | CAD & Mechanical Design |
@@ -106,7 +106,7 @@ Skills Demonstrated
 📬 Contact
 
 - **Huryel Aroucca** — [LinkedIn](https://linkedin.com/in/huryel-aroucca-profissional) · huryelprofissional@gmail.com
-- **Pedro Espinhola** — [LinkedIn](https://www.linkedin.com/in/pedroh-espindola/) pedrohenriquemachadoespindolah@gmail.com
+- **Pedro Espinhola** — [LinkedIn](https://www.linkedin.com/in/pedroh-espindola/) · pedrohenriquemachadoespindolah@gmail.com
 
 ---
 
