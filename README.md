@@ -66,13 +66,9 @@ Project Structure
 ```
 Automated-sorting-cell/
 ├── images/
-│   ├── demo_1.gif          # Top view
-│   ├── demo_2.gif          # Platform view
-│   └── demo_3.gif          # Conveyor end view
-├── control-io/
-│   └── Diagram1.controlio  # PLC logic diagram
-├── cad/
-│   └── ...                 # CAD files
+│   ├── demo_1.gif
+│   ├── demo_2.gif
+│   └── demo_3.gif
 ├── docs/
 │   └── AUTOMATED_PLATE_SORTING_SYSTEM.pdf
 └── README.md
@@ -82,7 +78,7 @@ Automated-sorting-cell/
 
 Technical Documentation
 
-📐 [Automated Plate Sorting System — Technical Drawing](docs/AUTOMATED_PLATE_SORTING_SYSTEM.pdf)
+📐 [Technical Drawing](docs/AUTOMATED_PLATE_SORTING_SYSTEM.pdf)
 
 Includes:
 - Side Elevation & Layout Plan (Scale 1:20)
