@@ -78,7 +78,7 @@ Automated-sorting-cell/
 
 Technical Documentation
 
-📐 📐 [Technical Drawing](docs/AUTOMATED_PLATE_SORTING_SYSTEM.pdf)
+📐 [Technical Drawing](docs/AUTOMATED_PLATE_SORTING_SYSTEM.pdf)
 
 Includes:
 - Side Elevation & Layout Plan (Scale 1:20)
